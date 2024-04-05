@@ -1,0 +1,467 @@
+index,Characteristic,Year,Demographic Category,Demographic Group,Overall Sample Size,Overall Population Size,Sample Cases with Characteristic,Estimated Population with Characteristic,Percentage with Characteristic,Lower Confidence Level,Upper Confidence Level
+0,Has Health Care Coverage,2017,Race/Ethnicity,White/Non-Hispanic,8023,8551781,7681,8089285.0,94.6,93.8,95.4
+1,Does Not Have Health Care Coverage,2017,Employment Status,Not in Labor Force,5124,5655624,248,408371.0,7.2,6.1,8.4
+2,Does Not Have Health Care Coverage,2017,Limitation Status,Limitation - Yes,2299,2315458,88,,4.5,3.3,5.8
+3,Has Health Care Coverage,2017,Age Group,65+,3649,3121301,3567,3021862.0,96.8,95.9,97.7
+4,Has Health Care Coverage,2017,Income Range,"More than $75,000",3764,4795308,3672,4640475.0,96.8,95.9,97.6
+5,Has Health Care Coverage,2017,DSRIP Region,Central New York,678,797186,646,741504.0,93.0,89.7,96.3
+6,Has Health Care Coverage,2017,Mental Health Status,Poor Mental Health,1373,1846173,1263,1687987.0,91.4,89.4,93.5
+7,Does Not Have Health Care Coverage,2017,Education Level,H.S. or GED,2872,4109192,288,443533.0,10.8,9.3,12.3
+8,Does Not Have Health Care Coverage,2017,Income Range,"$50,000 - 74,999",1376,1649238,63,91773.0,5.6,3.7,7.5
+9,Has Health Care Coverage,2017,Sex,Male,5565,7447651,5005,6547447.0,87.9,86.7,89.1
+10,Does Not Have Health Care Coverage,2017,Mental Health Status,Poor Mental Health,1373,1846173,110,158186.0,8.6,6.5,10.6
+11,Does Not Have Health Care Coverage,2017,Sex,Female,6634,8102349,408,653453.0,8.1,7.1,9.1
+12,Does Not Have Health Care Coverage,2017,Education Level,Less than H.S.,1136,2211782,284,588255.0,26.6,23.2,30.0
+13,Has Health Care Coverage,2017,Disability Status,Disability - No,8566,11197234,7896,10077873.0,90.0,89.0,91.0
+14,Does Not Have Health Care Coverage,2017,Sex,Male,5565,7447651,560,900204.0,12.1,10.9,13.3
+15,Does Not Have Health Care Coverage,2017,Age Group,45-64,4432,5073438,355,446930.0,8.8,7.6,10.0
+16,Has Health Care Coverage,2017,DSRIP Region,Mid-Hudson,1709,1804201,1576,1651275.0,91.5,90.0,93.1
+17,Does Not Have Health Care Coverage,2017,DSRIP Region,Capital Region,649,770319,35,58300.0,7.6,4.3,10.9
+18,Has Health Care Coverage,2017,DSRIP Region,North Country,577,243523,552,221734.0,91.1,86.4,95.7
+19,Has Health Care Coverage,2017,Race/Ethnicity,Black/Non-Hispanic,1226,2141655,1114,1935117.0,90.4,88.3,92.4
+20,Does Not Have Health Care Coverage,2017,Age Group,65+,3649,3121301,82,99439.0,3.2,2.3,4.1
+21,Has Health Care Coverage,2017,DSRIP Region,Finger Lakes,673,1004604,635,902360.0,89.8,85.9,93.8
+22,Does Not Have Health Care Coverage,2017,DSRIP Region,Central New York,678,797186,32,55682.0,7.0,3.7,10.3
+23,Does Not Have Health Care Coverage,2017,DSRIP Region,Southern Tier,625,357340,32,34596.0,9.7,4.0,15.3
+24,Does Not Have Health Care Coverage,2017,Mental Health Status,Good Mental Health,10554,13367621,825,1339087.0,10.0,9.2,10.9
+25,Does Not Have Health Care Coverage,2017,Race/Ethnicity,Black/Non-Hispanic,1226,2141655,112,206538.0,9.6,7.6,11.7
+26,Has Health Care Coverage,2017,NYC/ROS,New York City,4143,6732723,3654,5864279.0,87.1,85.8,88.4
+27,Has Health Care Coverage,2017,Sex,Female,6634,8102349,6226,7448896.0,91.9,90.9,92.9
+28,Has Health Care Coverage,2017,NYC/ROS,Rest of State (NYS excluding NYC),8059,8824255,7580,8139042.0,92.2,91.3,93.2
+29,Has Health Care Coverage,2017,Income Range,"$50,000 - 74,999",1376,1649238,1313,1557465.0,94.4,92.5,96.3
+30,Has Health Care Coverage,2017,Age Group,45-64,4432,5073438,4077,4626508.0,91.2,90.0,92.4
+31,Has Health Care Coverage,2017,DSRIP Region,New York City,4143,6732723,3654,5864279.0,87.1,85.8,88.4
+32,Does Not Have Health Care Coverage,2017,Race/Ethnicity,White/Non-Hispanic,8023,8551781,342,462496.0,5.4,4.6,6.2
+33,Does Not Have Health Care Coverage,2017,Employment Status,Unemployed,639,952507,105,149732.0,15.7,12.2,19.2
+34,Has Health Care Coverage,2017,DSRIP Region,Capital Region,649,770319,614,712020.0,92.4,89.1,95.7
+35,Does Not Have Health Care Coverage,2017,DSRIP Region,Finger Lakes,673,1004604,38,102244.0,10.2,6.2,14.1
+36,Has Health Care Coverage,2017,Employment Status,Not in Labor Force,5124,5655624,4876,5247253.0,92.8,91.6,93.9
+37,Does Not Have Health Care Coverage,2017,DSRIP Region,Long Island,1229,2243131,84,159182.0,7.1,5.3,8.8
+38,Does Not Have Health Care Coverage,2017,NYC/ROS,Rest of State (NYS excluding NYC),8059,8824255,479,685213.0,7.8,6.8,8.7
+39,Does Not Have Health Care Coverage,2017,Age Group,18-24,834,1847052,84,181950.0,9.9,7.3,12.4
+40,Has Health Care Coverage,2017,TOTAL,TOTAL,12202,15556978,11234,14003321.0,90.0,89.2,90.8
+41,Has Health Care Coverage,2017,Disability Status,Disability - Yes,2973,3415934,2750,3096355.0,90.6,89.2,92.1
+42,Has Health Care Coverage,2017,Age Group,18-24,834,1847052,750,1665101.0,90.1,87.6,92.7
+43,Has Health Care Coverage,2017,Limitation Status,Limitation - Yes,2299,2315458,2211,,95.5,94.2,96.7
+44,Has Health Care Coverage,2017,DSRIP Region,Mohawk Valley,555,205010,522,190160.0,92.8,89.7,95.8
+45,Does Not Have Health Care Coverage,2017,NYC/ROS,New York City,4143,6732723,489,868444.0,12.9,11.6,14.2
+46,Has Health Care Coverage,2017,DSRIP Region,Western New York,713,1208188,680,1138366.0,94.2,91.7,96.7
+47,Has Health Care Coverage,2017,Mental Health Status,Good Mental Health,10554,13367621,9729,12028535.0,90.0,89.1,90.8
+48,Has Health Care Coverage,2017,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,818,1705765,733,1514312.0,88.8,85.9,91.7
+49,Has Health Care Coverage,2017,DSRIP Region,Long Island,1229,2243131,1145,2083950.0,92.9,91.2,94.7
+50,Has Health Care Coverage,2017,Age Group,25-44,3062,5260020,2630,4450185.0,84.6,82.9,86.3
+51,Does Not Have Health Care Coverage,2017,Race/Ethnicity,Hispanic,1758,2690649,393,636885.0,23.7,21.2,26.2
+52,Has Health Care Coverage,2017,Education Level,H.S. or GED,2872,4109192,2584,3665659.0,89.2,87.7,90.7
+53,Has Health Care Coverage,2017,Limitation Status,Limitation - No,7516,9825743,6879,,89.1,88.0,90.1
+54,Does Not Have Health Care Coverage,2017,Education Level,Some Post H.S.,2896,4201681,170,305274.0,7.3,5.9,8.6
+55,Has Health Care Coverage,2017,Employment Status,Unemployed,639,952507,534,802775.0,84.3,80.8,87.8
+56,Has Health Care Coverage,2017,Education Level,Some Post H.S.,2896,4201681,2726,3896406.0,92.7,91.4,94.1
+57,Has Health Care Coverage,2017,DSRIP Region,Southern Tier,625,357340,593,322744.0,90.3,84.7,96.0
+58,Has Health Care Coverage,2017,Income Range,"$25,000 - 49,999",2334,2958471,2125,2619116.0,88.5,86.5,90.6
+59,Does Not Have Health Care Coverage,2017,Income Range,"More than $75,000",3764,4795308,92,154833.0,3.2,2.4,4.1
+60,Does Not Have Health Care Coverage,2017,DSRIP Region,Western New York,713,1208188,33,69822.0,5.8,3.3,8.3
+61,Does Not Have Health Care Coverage,2017,DSRIP Region,Tug Hill Seaway,651,190753,34,15822.0,8.3,4.9,11.7
+62,Has Health Care Coverage,2017,Education Level,College Graduate,5217,4945865,5001,4737572.0,95.8,95.1,96.5
+63,Has Health Care Coverage,2017,Education Level,Less than H.S.,1136,2211782,852,1623528.0,73.4,70.0,76.8
+64,Does Not Have Health Care Coverage,2017,Disability Status,Disability - No,8566,11197234,670,1119361.0,10.0,9.0,11.0
+65,Does Not Have Health Care Coverage,2017,Education Level,College Graduate,5217,4945865,216,208293.0,4.2,3.5,4.9
+66,Does Not Have Health Care Coverage,2017,DSRIP Region,Mid-Hudson,1709,1804201,133,152926.0,8.5,6.9,10.0
+67,Does Not Have Health Care Coverage,2017,DSRIP Region,New York City,4143,6732723,489,868444.0,12.9,11.6,14.2
+68,Does Not Have Health Care Coverage,2017,Income Range,"Less than $25,000",2965,3719342,417,678942.0,18.3,16.2,20.3
+69,Does Not Have Health Care Coverage,2017,Age Group,25-44,3062,5260020,432,809836.0,15.4,13.7,17.1
+70,Does Not Have Health Care Coverage,2017,Employment Status,Employed/Self-Employed,6271,8728866,587,949164.0,10.9,9.8,12.0
+71,Has Health Care Coverage,2017,Income Range,"Less than $25,000",2965,3719342,2548,3040400.0,81.7,79.7,83.8
+72,Has Health Care Coverage,2017,Employment Status,Employed/Self-Employed,6271,8728866,5684,7779702.0,89.1,88.0,90.2
+73,Does Not Have Health Care Coverage,2017,TOTAL,TOTAL,12202,15556978,968,1553656.0,10.0,9.2,10.8
+74,Does Not Have Health Care Coverage,2017,DSRIP Region,Mohawk Valley,555,205010,33,14850.0,7.2,4.2,10.3
+75,Has Health Care Coverage,2017,DSRIP Region,Tug Hill Seaway,651,190753,617,174930.0,91.7,88.3,95.1
+76,Does Not Have Health Care Coverage,2017,Limitation Status,Limitation - No,7516,9825743,637,,10.9,9.9,12.0
+77,Has Health Care Coverage,2017,Race/Ethnicity,Hispanic,1758,2690649,1365,2053763.0,76.3,73.8,78.8
+78,Does Not Have Health Care Coverage,2017,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,818,1705765,85,191452.0,11.2,8.3,14.1
+79,Does Not Have Health Care Coverage,2017,Disability Status,Disability - Yes,2973,3415934,223,319579.0,9.4,7.9,10.8
+80,Does Not Have Health Care Coverage,2017,DSRIP Region,North Country,577,243523,25,21789.0,8.9,4.3,13.6
+81,Does Not Have Health Care Coverage,2017,Income Range,"$25,000 - 49,999",2334,2958471,209,339355.0,11.5,9.4,13.5
+82,Does Not Have Health Care Coverage,2016,TOTAL,TOTAL,34057,15537043,2032,1477365.0,9.5,8.8,10.2
+83,Has Health Care Coverage,2016,Limitation Status,Limitation - Yes,9127,2960062,8791,2803121.0,94.7,93.6,95.8
+84,Has Health Care Coverage,2016,Mental Health Status,Good Mental Health,29669,13501841,27970,12274594.0,90.9,90.2,91.6
+85,Has Health Care Coverage,2016,Mental Health Status,Poor Mental Health,3718,1647572,3456,1480033.0,89.8,87.1,92.6
+86,Has Health Care Coverage,2016,Employment Status,Not in Labor Force,15501,5645861,14960,5309417.0,94.0,93.1,95.0
+87,Has Health Care Coverage,2016,Employment Status,Unemployed,1523,907750,1297,742503.0,81.8,77.8,85.8
+88,Has Health Care Coverage,2016,Disability Status,Disability - No,23322,11088004,21913,10054314.0,90.7,89.8,91.5
+89,Has Health Care Coverage,2016,Employment Status,Employed/Self-Employed,16703,8739928,15484,7821057.0,89.5,88.5,90.5
+90,Has Health Care Coverage,2016,Income Range,"$50,000 - 74,999",4543,1771792,4372,1663092.0,93.9,92.2,95.6
+91,Has Health Care Coverage,2016,Income Range,"$25,000 - 49,999",7300,2787106,6780,2450419.0,87.9,86.1,89.8
+92,Has Health Care Coverage,2016,Income Range,"Less than $25,000",8551,3720967,7765,3149512.0,84.6,82.9,86.4
+93,Does Not Have Health Care Coverage,2016,Race/Ethnicity,Hispanic,2393,2679709,440,609265.0,22.7,20.2,25.2
+94,Has Health Care Coverage,2016,Income Range,"More than $75,000",8939,4599725,8740,4455691.0,96.9,96.1,97.6
+95,Has Health Care Coverage,2016,DSRIP Region,Central New York,3307,797903,3150,736746.0,92.3,90.6,94.1
+96,Has Health Care Coverage,2016,Education Level,College Graduate,12279,4869753,11882,4654900.0,95.6,94.9,96.3
+97,Has Health Care Coverage,2016,DSRIP Region,Mid-Hudson,3932,1799513,3694,1652075.0,91.8,90.2,93.4
+98,Has Health Care Coverage,2016,Disability Status,Disability - Yes,8869,3292769,8423,3006611.0,91.3,89.7,92.9
+99,Does Not Have Health Care Coverage,2016,DSRIP Region,New York City,4379,6697837,457,785964.0,11.7,10.5,13.0
+100,Has Health Care Coverage,2016,Education Level,Some Post H.S.,8790,4194486,8373,3910559.0,93.2,92.1,94.4
+101,Has Health Care Coverage,2016,Education Level,H.S. or GED,9900,4111113,9231,3689849.0,89.8,88.2,91.3
+102,Has Health Care Coverage,2016,Education Level,Less than H.S.,2925,2240499,2396,1698855.0,75.8,72.9,78.8
+103,Has Health Care Coverage,2016,Age Group,65+,11243,3080643,11019,3005871.0,97.6,97.0,98.2
+104,Has Health Care Coverage,2016,DSRIP Region,Capital Region,3389,771655,3237,727169.0,94.2,93.0,95.5
+105,Has Health Care Coverage,2016,Age Group,25-44,7370,5250576,6524,4469818.0,85.1,83.6,86.6
+106,Does Not Have Health Care Coverage,2016,DSRIP Region,Capital Region,3389,771655,152,44485.0,5.8,4.5,7.0
+107,Has Health Care Coverage,2016,Age Group,18-24,1803,1855701,1587,1637675.0,88.3,85.4,91.1
+108,Has Health Care Coverage,2016,Race/Ethnicity,Hispanic,2393,2679709,1953,2070444.0,77.3,74.8,79.8
+109,Does Not Have Health Care Coverage,2016,Limitation Status,Limitation - No,23044,11036973,1522,1143281.0,10.4,9.4,11.3
+110,Has Health Care Coverage,2016,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,1483,1676122,1349,1516355.0,90.5,87.7,93.2
+111,Has Health Care Coverage,2016,Age Group,45-64,13100,5107250,12382,4714501.0,92.3,91.2,93.4
+112,Does Not Have Health Care Coverage,2016,Sex,Female,19074,8118412,868,623554.0,7.7,6.8,8.6
+113,Has Health Care Coverage,2016,Race/Ethnicity,Black/Non-Hispanic,1714,2143248,1570,1940593.0,90.5,88.5,92.6
+114,Has Health Care Coverage,2016,Race/Ethnicity,White/Non-Hispanic,27667,8573777,26421,8123826.0,94.8,94.1,95.4
+115,Does Not Have Health Care Coverage,2016,Age Group,18-24,1803,1855701,216,218026.0,11.7,8.9,14.6
+116,Does Not Have Health Care Coverage,2016,Disability Status,Disability - Yes,8869,3292769,446,286158.0,8.7,7.1,10.3
+117,Does Not Have Health Care Coverage,2016,DSRIP Region,Finger Lakes,4412,1005257,272,72518.0,7.2,5.6,8.9
+118,Has Health Care Coverage,2016,Sex,Female,19074,8118412,18206,7494857.0,92.3,91.4,93.2
+119,Does Not Have Health Care Coverage,2016,Mental Health Status,Good Mental Health,29669,13501841,1699,1227247.0,9.1,8.4,9.8
+120,Does Not Have Health Care Coverage,2016,Education Level,College Graduate,12279,4869753,397,214853.0,4.4,3.7,5.1
+121,Does Not Have Health Care Coverage,2016,Limitation Status,Limitation - Yes,9127,2960062,336,156942.0,5.3,4.2,6.4
+122,Does Not Have Health Care Coverage,2016,Disability Status,Disability - No,23322,11088004,1409,1033690.0,9.3,8.5,10.2
+123,Does Not Have Health Care Coverage,2016,Mental Health Status,Poor Mental Health,3718,1647572,262,167539.0,10.2,7.4,12.9
+124,Has Health Care Coverage,2016,TOTAL,TOTAL,34057,15537043,32025,14059679.0,90.5,89.8,91.2
+125,Has Health Care Coverage,2016,NYC/ROS,Rest of State (NYS excluding NYC),29678,8839206,28103,8147806.0,92.2,91.3,93.0
+126,Has Health Care Coverage,2016,NYC/ROS,New York City,4379,6697837,3922,5911873.0,88.3,87.0,89.5
+127,Has Health Care Coverage,2016,DSRIP Region,Long Island,1183,2246788,1099,2042486.0,90.9,88.4,93.4
+128,Has Health Care Coverage,2016,DSRIP Region,New York City,4379,6697837,3922,5911873.0,88.3,87.0,89.5
+129,Has Health Care Coverage,2016,DSRIP Region,Mohawk Valley,2205,205083,2083,188440.0,91.9,89.9,93.8
+130,Has Health Care Coverage,2016,DSRIP Region,North Country,3087,244738,2939,228943.0,93.5,91.7,95.4
+131,Has Health Care Coverage,2016,DSRIP Region,Southern Tier,2216,356447,2117,336742.0,94.5,92.7,96.2
+132,Has Health Care Coverage,2016,DSRIP Region,Western New York,4691,1216959,4445,1118838.0,91.9,89.8,94.1
+133,Has Health Care Coverage,2016,Sex,Male,14981,7418463,13817,6564653.0,88.5,87.3,89.6
+134,Has Health Care Coverage,2016,DSRIP Region,Finger Lakes,4412,1005257,4140,932739.0,92.8,91.1,94.4
+135,Does Not Have Health Care Coverage,2016,Employment Status,Not in Labor Force,15501,5645861,541,336443.0,6.0,5.0,6.9
+136,Does Not Have Health Care Coverage,2016,NYC/ROS,New York City,4379,6697837,457,785964.0,11.7,10.5,13.0
+137,Does Not Have Health Care Coverage,2016,Employment Status,Unemployed,1523,907750,226,165247.0,18.2,14.2,22.2
+138,Does Not Have Health Care Coverage,2016,Employment Status,Employed/Self-Employed,16703,8739928,1219,918871.0,10.5,9.5,11.5
+139,Does Not Have Health Care Coverage,2016,Income Range,"More than $75,000",8939,4599725,199,144034.0,3.1,2.4,3.9
+140,Does Not Have Health Care Coverage,2016,DSRIP Region,Tug Hill Seaway,1256,194863,57,11234.0,5.8,3.7,7.8
+141,Does Not Have Health Care Coverage,2016,DSRIP Region,Mid-Hudson,3932,1799513,238,147438.0,8.2,6.6,9.8
+142,Does Not Have Health Care Coverage,2016,Income Range,"$50,000 - 74,999",4543,1771792,171,108700.0,6.1,4.4,7.8
+143,Does Not Have Health Care Coverage,2016,Income Range,"$25,000 - 49,999",7300,2787106,520,336686.0,12.1,10.2,13.9
+144,Does Not Have Health Care Coverage,2016,Income Range,"Less than $25,000",8551,3720967,786,571454.0,15.4,13.6,17.1
+145,Does Not Have Health Care Coverage,2016,Education Level,Some Post H.S.,8790,4194486,417,283927.0,6.8,5.6,7.9
+146,Does Not Have Health Care Coverage,2016,Race/Ethnicity,White/Non-Hispanic,27667,8573777,1246,449951.0,5.2,4.6,5.9
+147,Does Not Have Health Care Coverage,2016,Education Level,H.S. or GED,9900,4111113,669,421264.0,10.2,8.7,11.8
+148,Does Not Have Health Care Coverage,2016,Education Level,Less than H.S.,2925,2240499,529,541644.0,24.2,21.2,27.1
+149,Does Not Have Health Care Coverage,2016,Age Group,65+,11243,3080643,224,74771.0,2.4,1.8,3.0
+150,Has Health Care Coverage,2016,Limitation Status,Limitation - No,23044,11036973,21522,9893692.0,89.6,88.7,90.6
+151,Does Not Have Health Care Coverage,2016,Age Group,45-64,13100,5107250,718,392750.0,7.7,6.6,8.8
+152,Does Not Have Health Care Coverage,2016,Age Group,25-44,7370,5250576,846,780758.0,14.9,13.4,16.4
+153,Does Not Have Health Care Coverage,2016,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,1483,1676122,134,159767.0,9.5,6.8,12.3
+154,Does Not Have Health Care Coverage,2016,Race/Ethnicity,Black/Non-Hispanic,1714,2143248,144,202655.0,9.5,7.4,11.5
+155,Does Not Have Health Care Coverage,2016,Sex,Male,14981,7418463,1164,853810.0,11.5,10.4,12.7
+156,Does Not Have Health Care Coverage,2016,DSRIP Region,Western New York,4691,1216959,246,98121.0,8.1,5.9,10.2
+157,Does Not Have Health Care Coverage,2016,DSRIP Region,Southern Tier,2216,356447,99,19705.0,5.5,3.8,7.3
+158,Does Not Have Health Care Coverage,2016,DSRIP Region,Central New York,3307,797903,157,61157.0,7.7,5.9,9.4
+159,Does Not Have Health Care Coverage,2016,DSRIP Region,North Country,3087,244738,148,15795.0,6.5,4.6,8.3
+160,Has Health Care Coverage,2016,DSRIP Region,Tug Hill Seaway,1256,194863,1199,183629.0,94.2,92.2,96.3
+161,Does Not Have Health Care Coverage,2016,DSRIP Region,Mohawk Valley,2205,205083,122,16643.0,8.1,6.2,10.1
+162,Does Not Have Health Care Coverage,2016,DSRIP Region,Long Island,1183,2246788,84,204302.0,9.1,6.6,11.6
+163,Does Not Have Health Care Coverage,2016,NYC/ROS,Rest of State (NYS excluding NYC),29678,8839206,1575,691400.0,7.8,7.0,8.7
+164,Has Health Care Coverage,2015,Limitation Status,Limitation - Yes,3130,3177092,3016,2979690.0,93.8,92.2,95.4
+165,Has Health Care Coverage,2015,TOTAL,TOTAL,12314,15546755,11542,13982693.0,89.9,89.1,90.8
+166,Has Health Care Coverage,2015,NYC/ROS,Rest of State (NYS excluding NYC),7953,8837022,7538,8118141.0,91.9,90.9,92.8
+167,Has Health Care Coverage,2015,DSRIP Region,Long Island,1474,2235041,1377,2017256.0,90.3,88.0,92.5
+168,Has Health Care Coverage,2015,DSRIP Region,Mid-Hudson,1269,1792818,1180,1616408.0,90.2,88.0,92.4
+169,Has Health Care Coverage,2015,DSRIP Region,Tug Hill Seaway,307,200119,293,189656.0,94.8,91.9,97.7
+170,Has Health Care Coverage,2015,DSRIP Region,Central New York,701,782190,670,723864.0,92.5,89.5,95.6
+171,Has Health Care Coverage,2015,DSRIP Region,Southern Tier,367,382674,356,364065.0,95.1,91.9,98.4
+172,Has Health Care Coverage,2015,DSRIP Region,Western New York,1046,1221670,992,1142198.0,93.5,91.3,95.7
+173,Has Health Care Coverage,2015,Sex,Male,5187,7437553,4764,6474925.0,87.1,85.7,88.5
+174,Has Health Care Coverage,2015,Race/Ethnicity,White/Non-Hispanic,8391,8610225,8091,8159200.0,94.8,94.0,95.5
+175,Has Health Care Coverage,2015,Race/Ethnicity,Black/Non-Hispanic,1308,2127400,1211,1947080.0,91.5,89.5,93.5
+176,Has Health Care Coverage,2015,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,758,1586067,694,1432815.0,90.3,87.6,93.1
+177,Has Health Care Coverage,2015,Race/Ethnicity,Hispanic,1500,2713532,1212,1995574.0,73.5,70.6,76.5
+178,Has Health Care Coverage,2015,Age Group,18-24,651,1910648,574,1652180.0,86.5,83.3,89.6
+179,Has Health Care Coverage,2015,Age Group,25-44,2735,5253292,2392,4414770.0,84.0,82.2,85.8
+180,Has Health Care Coverage,2015,Age Group,65+,4035,3032803,3974,2975912.0,98.1,97.5,98.7
+181,Has Health Care Coverage,2015,Education Level,Less than H.S.,1109,2288735,903,1704813.0,74.5,71.0,77.9
+182,Has Health Care Coverage,2015,Education Level,Some Post H.S.,2875,4181345,2717,3862012.0,92.4,91.0,93.7
+183,Has Health Care Coverage,2015,Education Level,College Graduate,5265,4777914,5098,4585060.0,96.0,95.2,96.7
+184,Has Health Care Coverage,2015,Income Range,"$25,000 - 49,999",2231,2633876,2044,2309833.0,87.7,85.7,89.7
+185,Has Health Care Coverage,2015,Income Range,"$50,000 - 74,999",1555,1864366,1496,1761892.0,94.5,92.8,96.3
+186,Has Health Care Coverage,2015,Income Range,"More than $75,000",3714,4519078,3670,4427599.0,98.0,97.2,98.7
+187,Has Health Care Coverage,2015,Employment Status,Unemployed,666,1057278,560,851102.0,80.5,76.4,84.6
+188,Has Health Care Coverage,2015,Mental Health Status,Poor Mental Health,1308,1761544,1212,1565093.0,88.8,86.1,91.6
+189,Does Not Have Health Care Coverage,2015,NYC/ROS,Rest of State (NYS excluding NYC),7953,8837022,415,718881.0,8.1,7.2,9.1
+190,Does Not Have Health Care Coverage,2015,NYC/ROS,New York City,4361,6709733,357,845181.0,12.6,11.1,14.1
+191,Does Not Have Health Care Coverage,2015,DSRIP Region,New York City,4361,6709733,357,845181.0,12.6,11.1,14.1
+192,Does Not Have Health Care Coverage,2015,DSRIP Region,Mid-Hudson,1269,1792818,89,176410.0,9.8,7.6,12.0
+193,Does Not Have Health Care Coverage,2015,DSRIP Region,Capital Region,1060,764744,28,36374.0,4.8,2.8,6.7
+194,Does Not Have Health Care Coverage,2015,DSRIP Region,Mohawk Valley,301,186819,18,11956.0,6.4,2.7,10.1
+195,Does Not Have Health Care Coverage,2015,DSRIP Region,North Country,426,262781,30,24573.0,9.4,5.4,13.3
+196,Does Not Have Health Care Coverage,2015,DSRIP Region,Central New York,701,782190,31,58326.0,7.5,4.4,10.5
+197,Does Not Have Health Care Coverage,2015,DSRIP Region,Southern Tier,367,382674,11,18610.0,4.9,1.6,8.1
+198,Does Not Have Health Care Coverage,2015,DSRIP Region,Finger Lakes,1002,1008165,43,84911.0,8.4,5.1,11.8
+199,Does Not Have Health Care Coverage,2015,DSRIP Region,Western New York,1046,1221670,54,79473.0,6.5,4.3,8.7
+200,Does Not Have Health Care Coverage,2015,Sex,Male,5187,7437553,423,962629.0,12.9,11.5,14.3
+201,Does Not Have Health Care Coverage,2015,Race/Ethnicity,Black/Non-Hispanic,1308,2127400,97,180320.0,8.5,6.5,10.5
+202,Does Not Have Health Care Coverage,2015,Race/Ethnicity,Hispanic,1500,2713532,288,717958.0,26.5,23.5,29.4
+203,Does Not Have Health Care Coverage,2015,Age Group,18-24,651,1910648,77,258468.0,13.5,10.4,16.7
+204,Does Not Have Health Care Coverage,2015,Age Group,25-44,2735,5253292,343,838522.0,16.0,14.2,17.8
+205,Does Not Have Health Care Coverage,2015,Age Group,45-64,4702,5147552,284,396856.0,7.7,6.6,8.8
+206,Does Not Have Health Care Coverage,2015,Age Group,65+,4035,3032803,61,56890.0,1.9,1.3,2.5
+207,Does Not Have Health Care Coverage,2015,Education Level,Less than H.S.,1109,2288735,206,583922.0,25.5,22.1,29.0
+208,Does Not Have Health Care Coverage,2015,Education Level,Some Post H.S.,2875,4181345,158,319333.0,7.6,6.3,9.0
+209,Does Not Have Health Care Coverage,2015,Education Level,College Graduate,5265,4777914,167,192854.0,4.0,3.3,4.8
+210,Does Not Have Health Care Coverage,2015,Income Range,"Less than $25,000",2832,3780222,312,648196.0,17.1,15.1,19.2
+211,Does Not Have Health Care Coverage,2015,Income Range,"$50,000 - 74,999",1555,1864366,59,102475.0,5.5,3.7,7.2
+212,Does Not Have Health Care Coverage,2015,Income Range,"More than $75,000",3714,4519078,44,91479.0,2.0,1.3,2.8
+213,Does Not Have Health Care Coverage,2015,Employment Status,Employed/Self-Employed,6172,8698535,460,993423.0,11.4,10.2,12.6
+214,Does Not Have Health Care Coverage,2015,Employment Status,Unemployed,666,1057278,106,206176.0,19.5,15.4,23.6
+215,Does Not Have Health Care Coverage,2015,Mental Health Status,Good Mental Health,10692,13380110,654,1330680.0,9.9,9.1,10.8
+216,Has Health Care Coverage,2015,Employment Status,Employed/Self-Employed,6172,8698535,5712,7705113.0,88.6,87.4,89.8
+217,Does Not Have Health Care Coverage,2015,Income Range,"$25,000 - 49,999",2231,2633876,187,324042.0,12.3,10.3,14.3
+218,Does Not Have Health Care Coverage,2015,Mental Health Status,Poor Mental Health,1308,1761544,96,196451.0,11.2,8.4,13.9
+219,Has Health Care Coverage,2015,DSRIP Region,North Country,426,262781,396,238208.0,90.6,86.7,94.6
+220,Does Not Have Health Care Coverage,2015,Sex,Female,7127,8109202,349,601434.0,7.4,6.5,8.4
+221,Has Health Care Coverage,2015,NYC/ROS,New York City,4361,6709733,4004,5864551.0,87.4,85.9,88.9
+222,Does Not Have Health Care Coverage,2015,Race/Ethnicity,White/Non-Hispanic,8391,8610225,300,451025.0,5.2,4.5,6.0
+223,Has Health Care Coverage,2015,Age Group,45-64,4702,5147552,4418,4750696.0,92.3,91.2,93.4
+224,Has Health Care Coverage,2015,DSRIP Region,Finger Lakes,1002,1008165,959,923254.0,91.6,88.2,94.9
+225,Has Health Care Coverage,2015,Education Level,H.S. or GED,2974,4165207,2747,3730464.0,89.6,87.9,91.2
+226,Has Health Care Coverage,2015,Income Range,"Less than $25,000",2832,3780222,2520,3132025.0,82.9,80.8,84.9
+227,Does Not Have Health Care Coverage,2015,Limitation Status,Limitation - Yes,3130,3177092,114,197402.0,6.2,4.6,7.8
+228,Has Health Care Coverage,2015,Sex,Female,7127,8109202,6778,7507768.0,92.6,91.6,93.5
+229,Has Health Care Coverage,2015,Limitation Status,Limitation - No,8677,11650719,8064,10365340.0,89.0,88.0,90.0
+230,Does Not Have Health Care Coverage,2015,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,758,1586067,64,153252.0,9.7,6.9,12.4
+231,Has Health Care Coverage,2015,Mental Health Status,Good Mental Health,10692,13380110,10038,12049430.0,90.1,89.2,90.9
+232,Does Not Have Health Care Coverage,2015,Limitation Status,Limitation - No,8677,11650719,613,1285380.0,11.0,10.0,12.0
+233,Has Health Care Coverage,2015,DSRIP Region,Capital Region,1060,764744,1032,728370.0,95.2,93.3,97.2
+234,Has Health Care Coverage,2015,DSRIP Region,New York City,4361,6709733,4004,5864551.0,87.4,85.9,88.9
+235,Does Not Have Health Care Coverage,2015,Employment Status,Not in Labor Force,5301,5508115,187,321755.0,5.8,4.9,6.8
+236,Does Not Have Health Care Coverage,2015,TOTAL,TOTAL,12314,15546755,772,1564062.0,10.1,9.2,10.9
+237,Does Not Have Health Care Coverage,2015,DSRIP Region,Tug Hill Seaway,307,200119,14,10463.0,5.2,2.3,8.1
+238,Does Not Have Health Care Coverage,2015,Education Level,H.S. or GED,2974,4165207,227,434743.0,10.4,8.8,12.1
+239,Has Health Care Coverage,2015,Employment Status,Not in Labor Force,5301,5508115,5114,5186360.0,94.2,93.2,95.1
+240,Has Health Care Coverage,2015,DSRIP Region,Mohawk Valley,301,186819,283,174863.0,93.6,89.9,97.3
+241,Does Not Have Health Care Coverage,2015,DSRIP Region,Long Island,1474,2235041,97,217785.0,9.7,7.5,12.0
+242,Does Not Have Health Care Coverage,2014,Race/Ethnicity,Hispanic,858,2669104,157,654378.0,24.5,20.8,28.3
+243,Has Health Care Coverage,2014,Race/Ethnicity,Hispanic,858,2669104,701,2014726.0,75.5,71.7,79.2
+244,Does Not Have Health Care Coverage,2014,Age Group,18-24,401,1928244,54,273127.0,14.2,10.1,18.2
+245,Does Not Have Health Care Coverage,2014,TOTAL,TOTAL,6841,15451419,565,1897454.0,12.3,11.1,13.4
+246,Does Not Have Health Care Coverage,2014,Age Group,25-44,1628,5226346,271,1072860.0,20.5,18.1,23.0
+247,Has Health Care Coverage,2014,Income Range,"$25,000 - 49,999",1315,3102997,1194,2672362.0,86.1,83.3,88.9
+248,Has Health Care Coverage,2014,Race/Ethnicity,White/Non-Hispanic,4459,8640272,4245,8059290.0,93.3,92.2,94.4
+249,Does Not Have Health Care Coverage,2014,Education Level,Less than H.S.,599,2314056,132,644715.0,27.9,23.4,32.3
+250,Does Not Have Health Care Coverage,2014,Age Group,65+,2078,2959382,38,74646.0,2.5,1.5,3.6
+251,Has Health Care Coverage,2014,Race/Ethnicity,Black/Non-Hispanic,875,2140126,776,1818206.0,85.0,81.7,88.2
+252,Does Not Have Health Care Coverage,2014,Education Level,H.S. or GED,1617,4155597,158,533892.0,12.8,10.6,15.1
+253,Does Not Have Health Care Coverage,2014,Education Level,Some Post H.S.,1569,4161672,139,447353.0,10.7,8.7,12.8
+254,Has Health Care Coverage,2014,Sex,Female,3985,8074028,3721,7307601.0,90.5,89.2,91.8
+255,Has Health Care Coverage,2014,Sex,Male,2856,7377391,2555,6246364.0,84.7,82.8,86.5
+256,Has Health Care Coverage,2014,NYC/ROS,Rest of State (NYS excluding NYC),3864,8798254,3622,8007478.0,91.0,89.7,92.4
+257,Has Health Care Coverage,2014,Mental Health Status,Good Mental Health,5928,13253184,5469,11697106.0,88.3,87.0,89.5
+258,Does Not Have Health Care Coverage,2014,Limitation Status,Limitation - No,4783,11497721,420,1469858.0,12.8,11.4,14.2
+259,Has Health Care Coverage,2014,Limitation Status,Limitation - Yes,1665,3059537,1568,2787401.0,91.1,89.1,93.1
+260,Has Health Care Coverage,2014,TOTAL,TOTAL,6841,15451419,6276,13553965.0,87.7,86.6,88.9
+261,Has Health Care Coverage,2014,Income Range,"Less than $25,000",1695,3939737,1447,3148691.0,79.9,77.3,82.5
+262,Has Health Care Coverage,2014,Employment Status,Unemployed,423,1198395,333,911835.0,76.1,71.0,81.2
+263,Does Not Have Health Care Coverage,2014,Education Level,College Graduate,2964,4635840,122,237478.0,5.1,4.0,6.2
+264,Has Health Care Coverage,2014,Education Level,Some Post H.S.,1569,4161672,1430,3714318.0,89.3,87.2,91.3
+265,Does Not Have Health Care Coverage,2014,Income Range,"Less than $25,000",1695,3939737,248,791046.0,20.1,17.5,22.7
+266,Has Health Care Coverage,2014,Education Level,H.S. or GED,1617,4155597,1459,3621705.0,87.2,84.9,89.4
+267,Does Not Have Health Care Coverage,2014,NYC/ROS,Rest of State (NYS excluding NYC),3864,8798254,242,790777.0,9.0,7.6,10.3
+268,Has Health Care Coverage,2014,Education Level,Less than H.S.,599,2314056,467,1669341.0,72.1,67.7,76.6
+269,Does Not Have Health Care Coverage,2014,Income Range,"$25,000 - 49,999",1315,3102997,121,430635.0,13.9,11.1,16.7
+270,Does Not Have Health Care Coverage,2014,Income Range,"$50,000 - 74,999",810,1800634,42,146042.0,8.1,5.2,11.0
+271,Does Not Have Health Care Coverage,2014,Income Range,"More than $75,000",1968,4177218,49,134811.0,3.2,2.2,4.3
+272,Does Not Have Health Care Coverage,2014,Employment Status,Employed/Self-Employed,3448,8453575,312,1061509.0,12.6,11.0,14.1
+273,Has Health Care Coverage,2014,Age Group,65+,2078,2959382,2040,2884736.0,97.5,96.4,98.5
+274,Does Not Have Health Care Coverage,2014,Employment Status,Unemployed,423,1198395,90,286560.0,23.9,18.8,29.0
+275,Does Not Have Health Care Coverage,2014,Employment Status,Not in Labor Force,2854,5513403,143,474880.0,8.6,6.9,10.3
+276,Does Not Have Health Care Coverage,2014,Mental Health Status,Poor Mental Health,723,1770764,85,282873.0,16.0,12.2,19.7
+277,Does Not Have Health Care Coverage,2014,Mental Health Status,Good Mental Health,5928,13253184,459,1556079.0,11.7,10.5,13.0
+278,Has Health Care Coverage,2014,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,440,1548482,372,1281282.0,82.7,78.3,87.2
+279,Does Not Have Health Care Coverage,2014,Limitation Status,Limitation - Yes,1665,3059537,97,272136.0,8.9,6.9,10.9
+280,Has Health Care Coverage,2014,Employment Status,Employed/Self-Employed,3448,8453575,3136,7392066.0,87.4,85.9,89.0
+281,Has Health Care Coverage,2014,Education Level,College Graduate,2964,4635840,2842,4398362.0,94.9,93.8,96.0
+282,Has Health Care Coverage,2014,Income Range,"$50,000 - 74,999",810,1800634,768,1654592.0,91.9,89.0,94.8
+283,Has Health Care Coverage,2014,Limitation Status,Limitation - No,4783,11497721,4363,10027863.0,87.2,85.8,88.6
+284,Has Health Care Coverage,2014,NYC/ROS,New York City,2977,6653164,2654,5546487.0,83.4,81.4,85.3
+285,Has Health Care Coverage,2014,Income Range,"More than $75,000",1968,4177218,1919,4042407.0,96.8,95.7,97.8
+286,Does Not Have Health Care Coverage,2014,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,440,1548482,68,267200.0,17.3,12.8,21.7
+287,Does Not Have Health Care Coverage,2014,Age Group,45-64,2622,5151367,195,453229.0,8.8,7.3,10.3
+288,Has Health Care Coverage,2014,Employment Status,Not in Labor Force,2854,5513403,2711,5038523.0,91.4,89.7,93.1
+289,Has Health Care Coverage,2014,Age Group,45-64,2622,5151367,2427,4698138.0,91.2,89.7,92.7
+290,Has Health Care Coverage,2014,Mental Health Status,Poor Mental Health,723,1770764,638,1487891.0,84.0,80.3,87.8
+291,Does Not Have Health Care Coverage,2014,NYC/ROS,New York City,2977,6653164,323,1106677.0,16.6,14.7,18.6
+292,Does Not Have Health Care Coverage,2014,Sex,Male,2856,7377391,301,1131026.0,15.3,13.5,17.2
+293,Has Health Care Coverage,2014,Age Group,25-44,1628,5226346,1357,4153486.0,79.5,77.0,81.9
+294,Does Not Have Health Care Coverage,2014,Sex,Female,3985,8074028,264,766427.0,9.5,8.2,10.8
+295,Does Not Have Health Care Coverage,2014,Race/Ethnicity,White/Non-Hispanic,4459,8640272,214,580982.0,6.7,5.6,7.8
+296,Does Not Have Health Care Coverage,2014,Race/Ethnicity,Black/Non-Hispanic,875,2140126,99,321920.0,15.0,11.8,18.3
+297,Has Health Care Coverage,2014,Age Group,18-24,401,1928244,347,1655117.0,85.8,81.8,89.9
+298,Does Not Have Health Care Coverage,2013,Education Level,H.S. or GED,2109,4129274,272,617400.0,15.0,13.0,16.9
+299,Does Not Have Health Care Coverage,2013,Mental Health Status,Good Mental Health,7769,13161872,784,1783000.0,13.5,12.5,14.6
+300,Does Not Have Health Care Coverage,2013,Mental Health Status,Poor Mental Health,924,1727952,116,285092.0,16.5,12.3,20.7
+301,Does Not Have Health Care Coverage,2013,Employment Status,Not in Labor Force,3593,5320131,179,354107.0,6.7,5.4,7.9
+302,Does Not Have Health Care Coverage,2013,Employment Status,Unemployed,609,1258875,151,328828.0,26.1,21.2,31.0
+303,Does Not Have Health Care Coverage,2013,Employment Status,Employed/Self-Employed,4640,8563904,590,1454656.0,17.0,15.4,18.5
+304,Has Health Care Coverage,2013,TOTAL,TOTAL,8939,15304635,8005,13147150.0,85.9,84.8,87.0
+305,Does Not Have Health Care Coverage,2013,Income Range,"More than $75,000",2498,4080646,57,129802.0,3.2,2.2,4.2
+306,Does Not Have Health Care Coverage,2013,Income Range,"$50,000 - 74,999",1017,1650333,51,114740.0,7.0,4.8,9.1
+307,Does Not Have Health Care Coverage,2013,Education Level,College Graduate,3760,4576697,214,308538.0,6.7,5.5,8.0
+308,Does Not Have Health Care Coverage,2013,Education Level,Less than H.S.,887,2371013,198,652377.0,27.5,23.5,31.5
+309,Does Not Have Health Care Coverage,2013,Sex,Male,3704,7314403,498,1323056.0,18.1,16.3,19.9
+310,Does Not Have Health Care Coverage,2013,Age Group,65+,2532,2868334,34,49253.0,1.7,1.0,2.4
+311,Does Not Have Health Care Coverage,2013,Age Group,45-64,3293,5180443,333,541672.0,10.5,9.0,11.9
+312,Does Not Have Health Care Coverage,2013,Age Group,25-44,2329,5188802,436,1182992.0,22.8,20.5,25.1
+313,Does Not Have Health Care Coverage,2013,Age Group,18-24,620,1894119,119,362610.0,19.1,15.3,23.0
+314,Does Not Have Health Care Coverage,2013,Race/Ethnicity,Hispanic,1221,2648142,286,787758.0,29.7,26.3,33.2
+315,Does Not Have Health Care Coverage,2013,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,547,1499431,90,258552.0,17.2,12.7,21.7
+316,Does Not Have Health Care Coverage,2013,NYC/ROS,Rest of State (NYS excluding NYC),4862,8741854,441,1035876.0,11.8,10.5,13.2
+317,Does Not Have Health Care Coverage,2013,Race/Ethnicity,Black/Non-Hispanic,1005,2080713,136,322640.0,15.5,12.5,18.5
+318,Does Not Have Health Care Coverage,2013,Race/Ethnicity,White/Non-Hispanic,5895,8680022,380,700847.0,8.1,7.1,9.1
+319,Does Not Have Health Care Coverage,2013,NYC/ROS,New York City,4077,6562781,493,1121609.0,17.1,15.3,18.9
+320,Does Not Have Health Care Coverage,2013,TOTAL,TOTAL,8939,15304635,934,2157485.0,14.1,13.0,15.2
+321,Has Health Care Coverage,2013,Mental Health Status,Good Mental Health,7769,13161872,6985,11378872.0,86.5,85.4,87.5
+322,Has Health Care Coverage,2013,Mental Health Status,Poor Mental Health,924,1727952,808,1442860.0,83.5,79.3,87.7
+323,Has Health Care Coverage,2013,Employment Status,Employed/Self-Employed,4640,8563904,4050,7109249.0,83.0,81.5,84.6
+324,Has Health Care Coverage,2013,Income Range,"More than $75,000",2498,4080646,2441,3950844.0,96.8,95.8,97.8
+325,Has Health Care Coverage,2013,Income Range,"$50,000 - 74,999",1017,1650333,966,1535593.0,93.0,90.9,95.2
+326,Has Health Care Coverage,2013,Income Range,"$25,000 - 49,999",1794,3151840,1573,2620094.0,83.1,80.5,85.8
+327,Has Health Care Coverage,2013,Income Range,"Less than $25,000",2356,4175871,1897,3147738.0,75.4,72.9,77.9
+328,Has Health Care Coverage,2013,Education Level,Some Post H.S.,2125,4130133,1882,3563513.0,86.3,84.3,88.3
+329,Has Health Care Coverage,2013,Education Level,H.S. or GED,2109,4129274,1837,3511874.0,85.0,83.1,87.0
+330,Has Health Care Coverage,2013,Education Level,Less than H.S.,887,2371013,689,1718636.0,72.5,68.5,76.5
+331,Has Health Care Coverage,2013,Age Group,65+,2532,2868334,2498,2819081.0,98.3,97.6,99.0
+332,Has Health Care Coverage,2013,Age Group,45-64,3293,5180443,2960,4638771.0,89.5,88.1,91.0
+333,Has Health Care Coverage,2013,Limitation Status,Limitation - Yes,2143,3273911,2014,3000564.0,91.7,89.8,93.5
+334,Has Health Care Coverage,2013,Age Group,25-44,2329,5188802,1893,4005810.0,77.2,74.9,79.5
+335,Has Health Care Coverage,2013,Age Group,18-24,620,1894119,501,1531508.0,80.9,77.0,84.7
+336,Has Health Care Coverage,2013,Race/Ethnicity,Hispanic,1221,2648142,935,1860385.0,70.3,66.8,73.7
+337,Has Health Care Coverage,2013,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,547,1499431,457,1240879.0,82.8,78.3,87.3
+338,Has Health Care Coverage,2013,Race/Ethnicity,Black/Non-Hispanic,1005,2080713,869,1758073.0,84.5,81.5,87.5
+339,Has Health Care Coverage,2013,Race/Ethnicity,White/Non-Hispanic,5895,8680022,5515,7979175.0,91.9,90.9,92.9
+340,Has Health Care Coverage,2013,NYC/ROS,Rest of State (NYS excluding NYC),4862,8741854,4421,7705978.0,88.2,86.8,89.5
+341,Has Health Care Coverage,2013,Employment Status,Unemployed,609,1258875,458,930048.0,73.9,69.0,78.8
+342,Has Health Care Coverage,2013,Sex,Male,3704,7314403,3206,5991347.0,81.9,80.1,83.7
+343,Does Not Have Health Care Coverage,2013,Limitation Status,Limitation - Yes,2143,3273911,129,273347.0,8.3,6.5,10.2
+344,Has Health Care Coverage,2013,Sex,Female,5235,7990232,4799,7155803.0,89.6,88.4,90.8
+345,Has Health Care Coverage,2013,Employment Status,Not in Labor Force,3593,5320131,3414,4966024.0,93.3,92.1,94.6
+346,Has Health Care Coverage,2013,NYC/ROS,New York City,4077,6562781,3584,5441172.0,82.9,81.1,84.7
+347,Has Health Care Coverage,2013,Education Level,College Graduate,3760,4576697,3546,4268160.0,93.3,92.0,94.5
+348,Does Not Have Health Care Coverage,2013,Education Level,Some Post H.S.,2125,4130133,243,566620.0,13.7,11.7,15.7
+349,Does Not Have Health Care Coverage,2013,Sex,Female,5235,7990232,436,834429.0,10.4,9.2,11.6
+350,Does Not Have Health Care Coverage,2013,Income Range,"Less than $25,000",2356,4175871,459,1028133.0,24.6,22.1,27.1
+351,Has Health Care Coverage,2013,Limitation Status,Limitation - No,6594,11669668,5814,9851843.0,84.4,83.2,85.7
+352,Does Not Have Health Care Coverage,2013,Income Range,"$25,000 - 49,999",1794,3151840,221,531746.0,16.9,14.2,19.5
+353,Does Not Have Health Care Coverage,2013,Limitation Status,Limitation - No,6594,11669668,780,1817825.0,15.6,14.3,16.8
+354,Has Health Care Coverage,2012,Income Range,"More than $75,000",1649,4006046,1611,3864694.0,96.5,94.8,98.1
+355,Has Health Care Coverage,2012,Age Group,25-44,1552,5184563,1266,4048552.0,78.1,75.1,81.1
+356,Does Not Have Health Care Coverage,2012,NYC/ROS,Rest of State (NYS excluding NYC),4407,8698259,391,1051612.0,12.1,10.6,13.6
+357,Does Not Have Health Care Coverage,2012,Sex,Male,2445,7207974,335,1306405.0,18.1,15.8,20.5
+358,Has Health Care Coverage,2012,Income Range,"$25,000 - 49,999",1227,3050446,1078,2592905.0,85.0,82.1,87.9
+359,Does Not Have Health Care Coverage,2012,TOTAL,TOTAL,6041,15191490,671,2327385.0,15.3,13.8,16.8
+360,Has Health Care Coverage,2012,Income Range,"Less than $25,000",1521,3863940,1205,2833285.0,73.3,69.8,76.8
+361,Does Not Have Health Care Coverage,2012,Employment Status,Not in Labor Force,2465,5456156,156,527023.0,9.7,7.7,11.7
+362,Has Health Care Coverage,2012,Education Level,H.S. or GED,1593,4151923,1385,3446125.0,83.0,80.1,85.9
+363,Does Not Have Health Care Coverage,2012,Education Level,College Graduate,2444,4572176,177,351719.0,7.7,6.4,9.0
+364,Has Health Care Coverage,2012,Limitation Status,Limitation - No,4474,11699915,3938,9815108.0,83.9,82.2,85.6
+365,Has Health Care Coverage,2012,Age Group,65+,1716,2812153,1683,2758275.0,98.1,97.2,98.9
+366,Has Health Care Coverage,2012,Education Level,Less than H.S.,516,2302089,384,1549353.0,67.3,61.5,73.1
+367,Does Not Have Health Care Coverage,2012,Income Range,"Less than $25,000",1521,3863940,316,1030655.0,26.7,23.2,30.2
+368,Has Health Care Coverage,2012,Mental Health Status,Good Mental Health,5194,12886350,4638,10966114.0,85.1,83.5,86.7
+369,Does Not Have Health Care Coverage,2012,Education Level,H.S. or GED,1593,4151923,208,705798.0,17.0,14.1,19.9
+370,Does Not Have Health Care Coverage,2012,Education Level,Less than H.S.,516,2302089,132,752736.0,32.7,26.9,38.5
+371,Has Health Care Coverage,2012,Age Group,45-64,2258,5109026,2009,4460267.0,87.3,85.2,89.4
+372,Has Health Care Coverage,2012,Age Group,18-24,421,1896979,322,1416276.0,74.7,69.3,80.0
+373,Has Health Care Coverage,2012,Employment Status,Not in Labor Force,2465,5456156,2309,4929133.0,90.3,88.3,92.3
+374,Has Health Care Coverage,2012,Education Level,Some Post H.S.,1462,4091928,1310,3584908.0,87.6,85.2,90.1
+375,Has Health Care Coverage,2012,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,351,1476733,299,1267219.0,85.8,80.7,91.0
+376,Has Health Care Coverage,2012,Race/Ethnicity,Black/Non-Hispanic,524,2084419,442,1736819.0,83.3,78.8,87.8
+377,Does Not Have Health Care Coverage,2012,Limitation Status,Limitation - No,4474,11699915,536,1884807.0,16.1,14.4,17.8
+378,Does Not Have Health Care Coverage,2012,Sex,Female,3596,7983516,336,1020980.0,12.8,11.0,14.6
+379,Has Health Care Coverage,2012,Race/Ethnicity,White/Non-Hispanic,4363,8684117,4025,7822793.0,90.1,88.7,91.5
+380,Does Not Have Health Care Coverage,2012,Education Level,Some Post H.S.,1462,4091928,152,507020.0,12.4,9.9,14.8
+381,Has Health Care Coverage,2012,Education Level,College Graduate,2444,4572176,2267,4220456.0,92.3,91.0,93.6
+382,Has Health Care Coverage,2012,Sex,Female,3596,7983516,3260,6962536.0,87.2,85.4,89.0
+383,Has Health Care Coverage,2012,NYC/ROS,New York City,1634,6493231,1354,5217458.0,80.4,77.6,83.1
+384,Does Not Have Health Care Coverage,2012,Income Range,"$25,000 - 49,999",1227,3050446,149,457540.0,15.0,12.1,17.9
+385,Does Not Have Health Care Coverage,2012,Income Range,"$50,000 - 74,999",799,1856641,57,184019.0,9.9,6.8,13.1
+386,Does Not Have Health Care Coverage,2012,Income Range,"More than $75,000",1649,4006046,38,141352.0,3.5,1.9,5.2
+387,Does Not Have Health Care Coverage,2012,Employment Status,Employed/Self-Employed,3160,8370268,384,1277700.0,15.3,13.4,17.2
+388,Does Not Have Health Care Coverage,2012,Employment Status,Unemployed,382,1265414,125,492347.0,38.9,31.5,46.3
+389,Does Not Have Health Care Coverage,2012,Age Group,25-44,1552,5184563,286,1136011.0,21.9,18.9,24.9
+390,Does Not Have Health Care Coverage,2012,Mental Health Status,Good Mental Health,5194,12886350,556,1920236.0,14.9,13.3,16.5
+391,Has Health Care Coverage,2012,NYC/ROS,Rest of State (NYS excluding NYC),4407,8698259,4016,7646646.0,87.9,86.4,89.4
+392,Has Health Care Coverage,2012,Race/Ethnicity,Hispanic,654,2562765,470,1686795.0,65.8,60.9,70.8
+393,Has Health Care Coverage,2012,Mental Health Status,Poor Mental Health,687,1831895,594,1508672.0,82.4,77.9,86.8
+394,Does Not Have Health Care Coverage,2012,Mental Health Status,Poor Mental Health,687,1831895,93,323223.0,17.6,13.2,22.1
+395,Does Not Have Health Care Coverage,2012,Limitation Status,Limitation - Yes,1445,3151161,114,346285.0,11.0,8.3,13.7
+396,Has Health Care Coverage,2012,TOTAL,TOTAL,6041,15191490,5370,12864104.0,84.7,83.2,86.2
+397,Does Not Have Health Care Coverage,2012,Race/Ethnicity,White/Non-Hispanic,4363,8684117,338,861325.0,9.9,8.5,11.3
+398,Has Health Care Coverage,2012,Income Range,"$50,000 - 74,999",799,1856641,742,1672621.0,90.1,86.9,93.2
+399,Does Not Have Health Care Coverage,2012,Race/Ethnicity,Black/Non-Hispanic,524,2084419,82,347601.0,16.7,12.2,21.2
+400,Does Not Have Health Care Coverage,2012,Age Group,65+,1716,2812153,33,53878.0,1.9,1.1,2.8
+401,Has Health Care Coverage,2012,Limitation Status,Limitation - Yes,1445,3151161,1331,2804876.0,89.0,86.3,91.7
+402,Has Health Care Coverage,2012,Employment Status,Unemployed,382,1265414,257,773067.0,61.1,53.7,68.5
+403,Does Not Have Health Care Coverage,2012,Age Group,45-64,2258,5109026,249,648759.0,12.7,10.6,14.8
+404,Has Health Care Coverage,2012,Employment Status,Employed/Self-Employed,3160,8370268,2776,7092568.0,84.7,82.8,86.6
+405,Does Not Have Health Care Coverage,2012,Age Group,18-24,421,1896979,99,480703.0,25.3,20.0,30.7
+406,Does Not Have Health Care Coverage,2012,Race/Ethnicity,Hispanic,654,2562765,184,875970.0,34.2,29.2,39.1
+407,Does Not Have Health Care Coverage,2012,NYC/ROS,New York City,1634,6493231,280,1275773.0,19.6,16.9,22.4
+408,Does Not Have Health Care Coverage,2012,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,351,1476733,52,209513.0,14.2,9.0,19.3
+409,Has Health Care Coverage,2012,Sex,Male,2445,7207974,2110,5901569.0,81.9,79.5,84.2
+410,Does Not Have Health Care Coverage,2011,Race/Ethnicity,Black/Non-Hispanic,953,2012405,136,316053.0,15.7,12.5,18.9
+411,Has Health Care Coverage,2011,Age Group,65+,2118,2672402,2065,2591026.0,97.0,95.9,98.0
+412,Does Not Have Health Care Coverage,2011,Limitation Status,Limitation - No,5058,10312322,642,1680241.0,16.3,14.7,17.8
+413,Does Not Have Health Care Coverage,2011,Sex,Female,4595,7770071,429,869329.0,11.2,9.8,12.5
+414,Has Health Care Coverage,2011,Limitation Status,Limitation - Yes,2043,3334086,1900,3035101.0,91.0,89.0,93.1
+415,Does Not Have Health Care Coverage,2011,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,425,1421221,83,279280.0,19.7,14.8,24.5
+416,Has Health Care Coverage,2011,Employment Status,Unemployed,592,1446340,421,1046873.0,72.4,67.3,77.5
+417,Has Health Care Coverage,2011,TOTAL,TOTAL,7692,14906190,6821,12713048.0,85.3,84.0,86.5
+418,Has Health Care Coverage,2011,Age Group,45-64,2858,5056059,2545,4448486.0,88.0,86.3,89.7
+419,Does Not Have Health Care Coverage,2011,Sex,Male,3097,7136119,442,1323813.0,18.6,16.5,20.7
+420,Has Health Care Coverage,2011,Education Level,Some Post H.S.,1830,3932783,1630,3438568.0,87.4,85.1,89.7
+421,Has Health Care Coverage,2011,NYC/ROS,New York City,3561,6406638,3085,5304221.0,82.8,81.0,84.6
+422,Has Health Care Coverage,2011,NYC/ROS,Rest of State (NYS excluding NYC),4131,8499553,3736,7408827.0,87.2,85.5,88.9
+423,Has Health Care Coverage,2011,Age Group,25-44,2134,5186489,1736,4024989.0,77.6,75.1,80.1
+424,Does Not Have Health Care Coverage,2011,Age Group,18-24,456,1827235,94,324338.0,17.8,13.1,22.4
+425,Does Not Have Health Care Coverage,2011,Age Group,25-44,2134,5186489,398,1161501.0,22.4,19.9,24.9
+426,Has Health Care Coverage,2011,Income Range,"Less than $25,000",2035,4139838,1604,3053627.0,73.8,70.8,76.7
+427,Does Not Have Health Care Coverage,2011,Mental Health Status,Poor Mental Health,847,1679332,116,239238.0,14.2,11.2,17.3
+428,Does Not Have Health Care Coverage,2011,Employment Status,Not in Labor Force,3143,5426333,192,453057.0,8.3,6.7,10.0
+429,Does Not Have Health Care Coverage,2011,Employment Status,Unemployed,592,1446340,171,399467.0,27.6,22.5,32.7
+430,Does Not Have Health Care Coverage,2011,Employment Status,Employed/Self-Employed,3895,7917252,498,1316524.0,16.6,14.9,18.4
+431,Has Health Care Coverage,2011,Race/Ethnicity,Hispanic,974,2262950,715,1548843.0,68.4,64.3,72.6
+432,Does Not Have Health Care Coverage,2011,Income Range,"More than $75,000",2030,3904135,67,197544.0,5.1,3.4,6.8
+433,Does Not Have Health Care Coverage,2011,Income Range,"$50,000 - 74,999",970,1786720,55,138801.0,7.8,5.0,10.5
+434,Does Not Have Health Care Coverage,2011,Income Range,"$25,000 - 49,999",1554,2864850,174,406271.0,14.2,11.7,16.7
+435,Does Not Have Health Care Coverage,2011,Income Range,"Less than $25,000",2035,4139838,431,1086211.0,26.2,23.3,29.2
+436,Has Health Care Coverage,2011,Race/Ethnicity,Black/Non-Hispanic,953,2012405,817,1696352.0,84.3,81.1,87.5
+437,Does Not Have Health Care Coverage,2011,Education Level,College Graduate,3268,4445428,233,324880.0,7.3,6.2,8.4
+438,Does Not Have Health Care Coverage,2011,Education Level,Some Post H.S.,1830,3932783,200,494215.0,12.6,10.3,14.9
+439,Has Health Care Coverage,2011,Sex,Male,3097,7136119,2655,5812306.0,81.4,79.3,83.5
+440,Does Not Have Health Care Coverage,2011,Education Level,H.S. or GED,1859,4142029,257,720926.0,17.4,14.7,20.1
+441,Does Not Have Health Care Coverage,2011,Education Level,Less than H.S.,689,2297907,171,627040.0,27.3,23.1,31.5
+442,Does Not Have Health Care Coverage,2011,Age Group,65+,2118,2672402,53,81376.0,3.0,2.0,4.1
+443,Does Not Have Health Care Coverage,2011,Age Group,45-64,2858,5056059,313,607573.0,12.0,10.3,13.7
+444,Does Not Have Health Care Coverage,2011,Race/Ethnicity,Hispanic,974,2262950,259,714107.0,31.6,27.4,35.7
+445,Has Health Care Coverage,2011,Limitation Status,Limitation - No,5058,10312322,4416,8632081.0,83.7,82.2,85.3
+446,Does Not Have Health Care Coverage,2011,Race/Ethnicity,White/Non-Hispanic,5137,8904104,367,836425.0,9.4,8.1,10.7
+447,Does Not Have Health Care Coverage,2011,NYC/ROS,New York City,3561,6406638,476,1102417.0,17.2,15.4,19.0
+448,Does Not Have Health Care Coverage,2011,NYC/ROS,Rest of State (NYS excluding NYC),4131,8499553,395,1090726.0,12.8,11.1,14.5
+449,Does Not Have Health Care Coverage,2011,TOTAL,TOTAL,7692,14906190,871,2193142.0,14.7,13.5,16.0
+450,Has Health Care Coverage,2011,Mental Health Status,Good Mental Health,6617,12753710,5904,10918864.0,85.6,84.3,87.0
+451,Has Health Care Coverage,2011,Income Range,"$25,000 - 49,999",1554,2864850,1380,2458579.0,85.8,83.3,88.3
+452,Has Health Care Coverage,2011,Mental Health Status,Poor Mental Health,847,1679332,731,1440094.0,85.8,82.7,88.8
+453,Has Health Care Coverage,2011,Employment Status,Not in Labor Force,3143,5426333,2951,4973276.0,91.7,90.0,93.3
+454,Has Health Care Coverage,2011,Income Range,"$50,000 - 74,999",970,1786720,915,1647919.0,92.2,89.5,95.0
+455,Has Health Care Coverage,2011,Sex,Female,4595,7770071,4166,6900742.0,88.8,87.5,90.2
+456,Has Health Care Coverage,2011,Race/Ethnicity,Other Race or Multiracial/Non-Hispanic,425,1421221,342,1141941.0,80.3,75.5,85.2
+457,Has Health Care Coverage,2011,Education Level,H.S. or GED,1859,4142029,1602,3421103.0,82.6,79.9,85.3
+458,Has Health Care Coverage,2011,Income Range,"More than $75,000",2030,3904135,1963,3706591.0,94.9,93.2,96.6
+459,Does Not Have Health Care Coverage,2011,Mental Health Status,Good Mental Health,6617,12753710,713,1834846.0,14.4,13.0,15.7
+460,Has Health Care Coverage,2011,Race/Ethnicity,White/Non-Hispanic,5137,8904104,4770,8067679.0,90.6,89.3,91.9
+461,Has Health Care Coverage,2011,Employment Status,Employed/Self-Employed,3895,7917252,3397,6600728.0,83.4,81.6,85.1
+462,Has Health Care Coverage,2011,Education Level,College Graduate,3268,4445428,3035,4120547.0,92.7,91.6,93.8
+463,Has Health Care Coverage,2011,Education Level,Less than H.S.,689,2297907,518,1670867.0,72.7,68.5,76.9
+464,Does Not Have Health Care Coverage,2011,Limitation Status,Limitation - Yes,2043,3334086,143,298985.0,9.0,6.9,11.0
+465,Has Health Care Coverage,2011,Age Group,18-24,456,1827235,362,1502898.0,82.2,77.6,86.9
